@@ -1,4 +1,4 @@
-# xr-project-3d
+# Unity XR Project Walkthrough Setup Guide Tutorial
 Generic Unity 3d XR virtual reality project using XRI toolkit, OpenXR, Oculus SDK and input system.
 
 ## Overview ##
